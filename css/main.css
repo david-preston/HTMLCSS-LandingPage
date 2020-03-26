@@ -279,7 +279,7 @@ section {
 }
 
 .full-banner-sidebar:after {
-  content: '';
+  content: "";
   width: 100px;
   height: 1px;
   background-color: #faa541;
